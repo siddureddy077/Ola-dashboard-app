@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 import streamlit as st
 
-url=r'/Users/shres/OneDrive/New folder/OneDrive/Desktop/ALL_PTOJECTS/OLA_PROJECT_2@GUVI/OLA_Cleaned_Data.csv'
+url=r'OLA_Cleaned_Data.db'
 df=pd.read_csv(url)
 engine = create_engine("sqlite:///ola.db")
 load_data=df.to_sql('OLA_Cleaned_Data',con=engine,if_exists='replace',index=False)
