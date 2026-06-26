@@ -96,6 +96,21 @@ Analyzes driver performance based on ratings received.
 
 Investigates incomplete rides and associated reasons.
 
+### Power BI
+
+<img width="656" height="385" alt="Screenshot 2026-06-26 094512" src="https://github.com/user-attachments/assets/076dd6ac-9bf1-4032-b968-f3314aacfc04" />
+
+<img width="641" height="383" alt="Screenshot 2026-06-26 094929" src="https://github.com/user-attachments/assets/d49d61ef-f57d-40d4-8dd5-7387ab5eb274" />
+
+<img width="633" height="371" alt="Screenshot 2026-06-26 094947" src="https://github.com/user-attachments/assets/72c1e90c-2278-43a8-b3dc-fca896182dd4" />
+
+<img width="646" height="383" alt="Screenshot 2026-06-26 095001" src="https://github.com/user-attachments/assets/6be22783-1954-4f17-915c-c40cc44284d0" />
+
+<img width="636" height="367" alt="Screenshot 2026-06-26 101047" src="https://github.com/user-attachments/assets/0551f073-a264-4c00-8c44-7508369a5846" />
+
+
+
+
 ## Key Insights
 
 * Identified peak ride demand periods.
